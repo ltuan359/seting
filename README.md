@@ -1,0 +1,2 @@
+# seting
+Memory
